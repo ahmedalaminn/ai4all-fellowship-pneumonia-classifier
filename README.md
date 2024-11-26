@@ -1,4 +1,4 @@
-# AI4ALL Fellowship Fall 2024 - Pediatric Pneumonia Diagnosis
+# AI4ALL Fellowship Fall 2024 - Pneumonia Diagnosis
 
 ## Project Proposal
 
